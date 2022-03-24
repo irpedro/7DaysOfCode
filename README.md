@@ -1,9 +1,9 @@
 <h1>Desafio Lógica JS | Alura - #7DaysOfCode</h1>
 
-<h2>DIA 1</h2>
+<h2>DIA 1 ✓</h2>
 <p>Já no primeiro dia vamos ver como o que parece ser um simples detalhe pode fazer toda a diferença no seu código e trazer o resultado esperado e correto ou, dependendo de como implementarmos o código, o mesmo comando pode trazer um resultado não esperado. Nesse dia, vamos aprender mais sobre o comando if e operações booleanas dentro do JS</p>
 
-<h2>DIA 2</h2>
+<h2>DIA 2 ✓</h2>
 <p>Não é só de condições e operações booleanas que um código vive, então no segundo dia do desafio de lógica de programação vamos aprender a trabalhar com captura de inputs e como amarzenar essas informações em variáveis para usarmos durante a execução do nosso programa.</p>
 
 <h2>DIA 3</h2>
