@@ -4,8 +4,6 @@ let perfil = {
     linguagem: prompt('Qual linguagem de programação você está estudando?')
 }
 
-
-
 alert(`Olá ${perfil.nome}, você tem ${perfil.idade} anos e está aprendendo ${perfil.linguagem}!`)
 
 var res = ''
