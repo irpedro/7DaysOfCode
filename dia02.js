@@ -1,14 +1,18 @@
-var nome = prompt('Qual seu nome?')
-var idade = prompt('Quantos anos você tem?')
-var linguagem = prompt('Qual linguagem de programação você está estudando?')
+let perfil = {
+    nome: prompt('Qual seu nome?'),
+    idade: prompt('Quantos anos você tem?'),
+    linguagem: prompt('Qual linguagem de programação você está estudando?')
+}
 
-alert(`Olá ${nome}, você tem ${idade} anos e está aprendendo ${linguagem}!`)
+
+
+alert(`Olá ${perfil.nome}, você tem ${perfil.idade} anos e está aprendendo ${perfil.linguagem}!`)
 
 var res = ''
 
 ver()
 function ver(){
-    res = prompt(`Você gosta de estudar ${linguagem}? Responda 1 para SIM e 2 para NÃO.`)
+    res = prompt(`Você gosta de estudar ${perfil.linguagem}? Responda 1 para SIM e 2 para NÃO.`)
 }
 
 resp()
