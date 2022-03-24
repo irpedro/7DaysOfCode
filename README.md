@@ -1,7 +1,9 @@
-<h1 align=center>Desafio Lógica JS | Alura - #7DaysOfCode</h1>
-<p align=center>
-    <img src="7days.svg""/>
+<h1 align="center">Desafio Lógica JS | Alura - #7DaysOfCode</h1>
+
+<p align="center">
+    <img src="7days.svg" alt="7 days of code"/>
 </p>
+
 <h2>DIA 1 ✓</h2>
 <p>Já no primeiro dia vamos ver como o que parece ser um simples detalhe pode fazer toda a diferença no seu código e trazer o resultado esperado e correto ou, dependendo de como implementarmos o código, o mesmo comando pode trazer um resultado não esperado. Nesse dia, vamos aprender mais sobre o comando if e operações booleanas dentro do JS</p>
 
@@ -23,5 +25,5 @@
 <h2>DIA 7</h2>
 <p>Até aqui trabalhamos em muitos projetos diferentes praticando vários comandos e interação entre eles dentro do Javascript. Mas ainda não falamos de algo essencial que é a organização do nosso código. No sétimo e ultimo dia do desafio faremos um projeto maior para vermos como a organização ou falta dela pode afetar nossa produção de código e muitas vezes causar erros que normalmente não fariamos.</p>
 <hr>
-<h6 align=center>Por: IrPedro 👋🏻</h6>
-<h6 align=center>Fiquei muito tempo procurando entender o porquê do meu repositório não aparecer na busca, só é possível adicionar tags no modo desktop</h6>
+<h6 align="center">Por: IrPedro 👋🏻</h6>
+<h6 align="center">Fiquei muito tempo procurando entender o porquê do meu repositório não aparecer na busca, descobri que só é possível adicionar tags no modo desktop</h6>
