@@ -1,7 +1,7 @@
 <h1 align=center>Desafio Lógica JS | Alura - #7DaysOfCode</h1>
-<div>
-    <img src="7days.svg" style="margin-left: 300px"/>
-</div>
+<p align=center>
+    <img src="7days.svg""/>
+</p>
 <h2>DIA 1 ✓</h2>
 <p>Já no primeiro dia vamos ver como o que parece ser um simples detalhe pode fazer toda a diferença no seu código e trazer o resultado esperado e correto ou, dependendo de como implementarmos o código, o mesmo comando pode trazer um resultado não esperado. Nesse dia, vamos aprender mais sobre o comando if e operações booleanas dentro do JS</p>
 
