@@ -10,14 +10,14 @@ var res = ''
 
 ver()
 function ver(){
-    res = prompt(`Você gosta de estudar ${perfil.linguagem}? Responda 1 para SIM e 2 para NÃO.`)
+    res = prompt(`Você gosta de estudar ${perfil.linguagem}? [S/N]`)
 }
 
 resp()
 function resp() {
-    if (res == 1) {
+    if (res == 'S' || res == 's') {
         alert('Muito bom! Continue estudando e você terá muito sucesso.')
-    } else if (res == 2) {
+    } else if (res == 'N' || res == 'n') {
         alert('Ahh que pena... Já tentou aprender outras linguagens?')
     } else {
         alert('Desculpe não entendi, poderia repetir?')
