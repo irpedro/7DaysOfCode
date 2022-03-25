@@ -21,7 +21,7 @@ function resp() {
     }
 }
 
-prompt('E depois? Você quer se Especializar na sua área ou quer se tonar Fullstack?')
+prompt('E depois? Você quer se especializar na sua área ou quer se tonar Fullstack?')
 alert('Que bom que você já tem uma ideia para sua carreira.')
 
 do{
@@ -32,3 +32,5 @@ do{
         alert('Realmente tem muita tecnologia para aprender')
     }
 }while (res != 'N')
+
+alert(`Obrigado por participar ${nome} ( ╹▽╹ )`)
