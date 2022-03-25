@@ -10,7 +10,7 @@
 <h2>DIA 2 ✓</h2>
 <p>Não é só de condições e operações booleanas que um código vive, então no segundo dia do desafio de lógica de programação vamos aprender a trabalhar com captura de inputs e como amarzenar essas informações em variáveis para usarmos durante a execução do nosso programa.</p>
 
-<h2>DIA 3</h2>
+<h2>DIA 3 ✓</h2>
 <p>Nesse dia vamos juntar tudo o que vimos nos dias anteriores para criarmos uma narrativa dinâmica. E para que essa história só acabe quando a pessoa que está lendo ela quiser, vamos adicionar loops para fazermos uma tarefa repetidas vezes!</p>
 
 <h2>DIA 4</h2>
