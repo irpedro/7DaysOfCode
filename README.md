@@ -13,13 +13,13 @@
 <h2>DIA 3 ✓</h2>
 <p>Nesse dia vamos juntar tudo o que vimos nos dias anteriores para criarmos uma narrativa dinâmica. E para que essa história só acabe quando a pessoa que está lendo ela quiser, vamos adicionar loops para fazermos uma tarefa repetidas vezes!</p>
 
-<h2>DIA 4</h2>
+<h2>DIA 4 ✓</h2>
 <p>Como estamos no tema de jogos e narrativas, que tal criarmos um programa para jogarmos contra o computador? Nosso quarto dia iremos aprender a trabalhar com aleatoriedade para criarmos um jogo.</p>
 
-<h2>DIA 5</h2>
+<h2>DIA 5 ✓</h2>
 <p>Listas estão em todos os lugares e nos ajudam muito a trabalhar um grande volume de informação. É muito importante que você saiba trabalhar com arrays e preparamos um dia especial para isso!</p>
 
-<h2>DIA 6</h2>
+<h2>DIA 6 ✓</h2>
 <p>Depois de praticarmos como inserir e manipular itens dentro de uma lista, precisamos entender como e quando remover um item especifico dela.</p>
 
 <h2>DIA 7</h2>
